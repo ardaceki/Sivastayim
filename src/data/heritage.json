@@ -1,0 +1,80 @@
+[
+  {
+    "id": "HERITAGE-001",
+    "category": "Living Heritage",
+    "name": { "tr": "Kangal Köpeği", "en": "Kangal Shepherd Dog" },
+    "description": {
+      "tr": "Sadakati ve zekasıyla 'Anadolu Aslanı' olarak tanınan, Sivas'ın dünyaya armağan ettiği eşsiz bir köpek ırkıdır.",
+      "en": "Known as the 'Anatolian Lion' for its loyalty and intelligence, it is a unique dog breed gifted to the world by Sivas."
+    },
+    "didYouKnow": {
+      "tr": "Kangallar, sürülerini sadece kurtlara karşı değil, ayı gibi büyük yırtıcılara karşı da koruyabilen nadir ırklardandır.",
+      "en": "Kangals are among the rare breeds capable of protecting their flocks not only against wolves but also large predators like bears."
+    }
+  },
+  {
+    "id": "HERITAGE-002",
+    "category": "Craftsmanship",
+    "name": { "tr": "Sivas Halısı ve Kilimi", "en": "Sivas Carpet and Rug" },
+    "description": {
+      "tr": "Düğüm sıkılığı ve doğal kök boyalarıyla ünlü Sivas halıları, Anadolu'nun geometrik şiiri gibidir.",
+      "en": "Famous for their knot density and natural root dyes, Sivas carpets are like the geometric poetry of Anatolia."
+    },
+    "didYouKnow": {
+      "tr": "Geleneksel Sivas halılarındaki 'Hayat Ağacı' motifi, sonsuzluğu ve aile bağlarını temsil eder.",
+      "en": "The 'Tree of Life' motif in traditional Sivas carpets represents eternity and family bonds."
+    }
+  },
+  {
+    "id": "HERITAGE-003",
+    "category": "Architecture",
+    "name": { "tr": "Sivil Mimari: Sivas Evleri", "en": "Civil Architecture: Sivas Houses" },
+    "description": {
+      "tr": "Cumbası, geniş saçağı ve 'hayat' adı verilen avlusuyla Osmanlı şehir dokusunun en zarif örnekleridir.",
+      "en": "Elegant examples of Ottoman urban fabric with their bay windows, wide eaves, and courtyards called 'hayat'."
+    },
+    "didYouKnow": {
+      "tr": "Abdi Ağa Konağı, Sivas'ın sivil mimari mirasını günümüze taşıyan en görkemli yapılarından biridir.",
+      "en": "The Abdi Ağa Mansion is one of the most magnificent structures carrying Sivas's civil architectural heritage to the present."
+    }
+  },
+  {
+    "id": "HERITAGE-004",
+    "category": "Arts",
+    "name": { "tr": "Bozkırın Sesi: Saz ve Bağlama", "en": "Voice of the Steppe: Saz and Baglama" },
+    "description": {
+      "tr": "Ozanlar diyarı Sivas'ta bağlama sadece bir enstrüman değil, kültürel bir hafıza ve dert ortağıdır.",
+      "en": "In Sivas, the land of poets, the baglama is not just an instrument but a cultural memory and a companion in sorrow."
+    },
+    "didYouKnow": {
+      "tr": "Sivas, dünyada en çok 'Halk Ozanı' yetiştiren ve bağlama yapım atölyelerinin en yoğun olduğu merkezlerden biridir.",
+      "en": "Sivas is one of the centers that has raised the most 'Folk Poets' in the world and has a high concentration of baglama workshops."
+    }
+  },
+  {
+    "id": "HERITAGE-005",
+    "category": "Living Heritage",
+    "name": { "tr": "At Kültürü ve Haralar", "en": "Horse Culture & Stud Farms" },
+    "description": {
+      "tr": "Sultan II. Abdülhamid döneminden miras kalan at yetiştiriciliği, şehrin asil bir geleneğidir.",
+      "en": "Horse breeding, inherited from the era of Sultan Abdulhamid II, is a noble tradition of the city."
+    },
+    "didYouKnow": {
+      "tr": "Hamidiye Kültür Bahçesi, tarihi aygır depolarıyla Sivas'ın askeri ve kültürel atçılık merkezidir.",
+      "en": "Hamidiye Culture Park is Sivas's military and cultural equestrian center with its historic stallion depots."
+    }
+  },
+  {
+    "id": "HERITAGE-006",
+    "category": "Craftsmanship",
+    "name": { "tr": "Savat ve El Sanatları", "en": "Savat and Traditional Crafts" },
+    "description": {
+      "tr": "Gümüş üzerine siyah alaşım işleme sanatı olan savat ile kemik tarak ve Sivas bıçağı, yaşayan son zanaatlardır.",
+      "en": "Savat (niello silverwork), along with bone combs and Sivas knives, are the last surviving traditional crafts."
+    },
+    "didYouKnow": {
+      "tr": "Hakiki bir Sivas bıçağının sapı genellikle manda boynuzundan yapılır ve asla paslanmaz.",
+      "en": "The handle of an authentic Sivas knife is usually made of water buffalo horn and never rusts."
+    }
+  }
+]

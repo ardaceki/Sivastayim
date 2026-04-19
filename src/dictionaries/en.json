@@ -1,0 +1,54 @@
+{
+  "navbar": {
+    "logo": "Sivastayım"
+  },
+  "hero": {
+    "title": "Sivastayım",
+    "subtitle": "Are you ready to explore the unique atmosphere of Sivas?",
+    "start_btn": "Start Time Travel",
+    "map_btn": "Open the Map"
+  },
+  "scrollytelling": {
+    "steps": [
+      {
+        "title": "Hittite Era (1600-1200 BC): The Birth of Sivas",
+        "description": "With key settlements like Sarissa and Kayalıpınar, Sivas is where the foundational codes of civilization were written. This period essentially formed the city's birth."
+      },
+      {
+        "title": "Roman Power: The Majestic Sebasteia",
+        "description": "As a strategic heart of the empire, Sebasteia was a center of military and cultural gravity. Legendary stories like the 40 Martyrs emphasize its status as a majestic metropolis."
+      },
+      {
+        "title": "Byzantine and Armenian Transition",
+        "description": "Serving as a crucial frontier city where empires collided, Sivas housed complex political transitions and powerful traces of the Vaspurakan Kingdom."
+      },
+      {
+        "title": "Seljuk Golden Age: The Silicon Valley of Its Era",
+        "description": "Through monumental masterpieces like Gök Medrese and Şifahiye, Sivas experienced the zenith of science and architecture. It was the undisputed intellectual center of 13th-century Anatolia."
+      },
+      {
+        "title": "Eretna & Kadı Burhaneddin: Capital Vision",
+        "description": "Rising independently as a state capital, Sivas entered a deeply intellectual golden age, guided jointly by political strategy and Kadı Burhaneddin's poetic and philosophical genius."
+      },
+      {
+        "title": "Ottoman Centrality: Eyalet-i Rum",
+        "description": "Under centuries of Ottoman reign, Sivas acted as a colossal logistical and commercial base, pulsating as a critical administrative province at the very heart of the Silk Road."
+      },
+      {
+        "title": "Republican Foundation: The 108-Day Capital",
+        "description": "Hosting the historic Sivas Congress that ignited the National Struggle, the city served as the temporary capital for 108 days, drawing the physical and spiritual map of the Republic."
+      },
+      {
+        "title": "Modern & Future: Smart City Vision",
+        "description": "Crowned by the UNESCO heritage of Divriği and fortified by industrial milestones like TÜDEMSAŞ, Sivas now carries its deep-rooted history forward with an ambitious Smart City vision."
+      }
+    ]
+  },
+  "common": {
+    "search": "Search...",
+    "search_placeholder": "Where would you like to explore?",
+    "search_people": "Search portraits by name...",
+    "search_dishes": "Search flavors...",
+    "no_results": "No results found."
+  }
+}

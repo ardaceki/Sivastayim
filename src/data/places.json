@@ -1,0 +1,674 @@
+[
+    {
+        "id": 1,
+        "isim": {
+            "tr": "Gök Medrese (Sahibiye Medresesi)",
+            "en": "Gök Medrese (Celestial Madrasa)"
+        },
+        "koordinatlar": "39 44 39.3 N 37 00 60.0 E",
+        "sure": {
+            "tr": "45 Dakika",
+            "en": "45 Minutes"
+        },
+        "aciklama": {
+            "tr": "1271 yapımı Selçuklu eseri; turkuaz çinileri, ikiz minareleri ve 12 hayvanlı Türk takvimi kabartmalarıyla mimari bir zirvedir.",
+            "en": "A Seljuk masterpiece built in 1271; it represents an architectural peak with its turquoise tiles, twin minarets, and reliefs of the 12-animal Turkish calendar."
+        }
+    },
+    {
+        "id": 2,
+        "isim": {
+            "tr": "Çifte Minareli Medrese",
+            "en": "Twin Minaret Madrasa"
+        },
+        "koordinatlar": "39 44 54.0 N 37 00 50.7 E",
+        "sure": {
+            "tr": "20 Dakika",
+            "en": "20 Minutes"
+        },
+        "aciklama": {
+            "tr": "1271-1272 yıllarında İlhanlılar tarafından inşa edilen yapı, görkemli ön cephesiyle dönemin siyasi gücünü simgeler.",
+            "en": "Built by the Ilkhanids in 1271-1272, the structure symbolizes the political power of the era with its magnificent facade."
+        }
+    },
+    {
+        "id": 3,
+        "isim": {
+            "tr": "Şifaiye Medresesi (1. Keykavus Darüşşifası)",
+            "en": "Şifaiye Madrasa (Hospital of Kayqubad I)"
+        },
+        "koordinatlar": "39 44 54.0 N 37 00 54.0 E",
+        "sure": {
+            "tr": "60-90 Dakika",
+            "en": "60-90 Minutes"
+        },
+        "aciklama": {
+            "tr": "1217 tarihli Anadolu'nun en büyük tıp merkezlerinden biri; cerrahi ve ruh sağlığı hizmeti vermiş, I. Keykavus'un türbesini barındırır.",
+            "en": "Dated 1217, one of Anatolia's largest medical centers; it provided surgical and mental health services and houses the tomb of Sultan Kayqubad I."
+        }
+    },
+    {
+        "id": 4,
+        "isim": {
+            "tr": "Sivas Ulu Camii",
+            "en": "Sivas Great Mosque"
+        },
+        "koordinatlar": "39 45 02.0 N 37 00 54.0 E",
+        "sure": {
+            "tr": "30 Dakika",
+            "en": "30 Minutes"
+        },
+        "aciklama": {
+            "tr": "1196-1197 yapımı Danişmend eseri; 12 taş sütunlu hipostil planı ve sedir ağacı tavanıyla sadeliği temsil eder.",
+            "en": "A Danishmend work from 1196-1197; it represents simplicity with its hypostyle plan featuring 12 stone columns and a cedar wood ceiling."
+        }
+    },
+    {
+        "id": 5,
+        "isim": {
+            "tr": "Buruciye Medresesi",
+            "en": "Buruciye Madrasa"
+        },
+        "koordinatlar": "39 44 53.9 N 37 00 54.4 E",
+        "sure": {
+            "tr": "40 Dakika",
+            "en": "40 Minutes"
+        },
+        "aciklama": {
+            "tr": "1271'de pozitif bilimler için kurulan medrese, Anadolu'nun en simetrik planlı ve en sağlam korunmuş yapılarından biridir.",
+            "en": "Founded in 1271 for positive sciences, it is one of Anatolia's most symmetrically planned and best-preserved structures."
+        }
+    },
+    {
+        "id": 6,
+        "isim": {
+            "tr": "Divriği Ulu Camii ve Darüşşifası",
+            "en": "Divriği Great Mosque and Hospital"
+        },
+        "koordinatlar": "39 22 16.6 N 38 07 18.6 E",
+        "sure": {
+            "tr": "120 Dakika",
+            "en": "120 Minutes"
+        },
+        "aciklama": {
+            "tr": "UNESCO Dünya Mirası listesindeki başyapıt; benzersiz taş motifleriyle evrendeki sonsuz uyumu simgeler.",
+            "en": "A UNESCO World Heritage masterpiece; it symbolizes eternal harmony in the universe with its unique stone motifs."
+        }
+    },
+    {
+        "id": 7,
+        "isim": {
+            "tr": "Kangal Balıklı (Yılanlı) Çermik",
+            "en": "Kangal Fish (Snake) Thermal Springs"
+        },
+        "koordinatlar": "39 18 49.5 N 37 28 08.0 E",
+        "sure": {
+            "tr": "21 Günlük Tedavi Döngüsü",
+            "en": "21-Day Treatment Cycle"
+        },
+        "aciklama": {
+            "tr": "Sedef hastalığı tedavisinde küresel bir merkez olup, tıbbi etkinlik için 21 günlük kür tavsiye edilir.",
+            "en": "A global center for psoriasis treatment; a 21-day cure cycle is recommended for maximum medical effectiveness."
+        }
+    },
+    {
+        "id": 8,
+        "isim": {
+            "tr": "Paşabahçe Rekreasyon Alanı",
+            "en": "Paşabahçe Recreation Area"
+        },
+        "koordinatlar": "39 47 28.2 N 36 59 53.0 E",
+        "sure": {
+            "tr": "Çok Günlük Konaklama",
+            "en": "Multi-Day Stay"
+        },
+        "aciklama": {
+            "tr": "Hobbit Evleri konseptiyle tematik konaklama sunan, turist çekim potansiyeli yüksek bir dinlenme alanıdır.",
+            "en": "A relaxation area with high tourist potential, offering thematic accommodation with the Hobbit Houses concept."
+        }
+    },
+    {
+        "id": 9,
+        "isim": {
+            "tr": "Taşhan Kervansarayı",
+            "en": "Taşhan Caravanserai"
+        },
+        "koordinatlar": "39 44 59.2 N 37 01 08.7 E",
+        "sure": {
+            "tr": "Kahve Ritüeli Süresi",
+            "en": "Coffee Ritual Duration"
+        },
+        "aciklama": {
+            "tr": "Şehir merkezinde geleneksel kahve ritüellerinin merkezi olan, tarihi bir 'ana kamp' (basecamp) niteliğindedir.",
+            "en": "The hub of traditional coffee rituals in the city center, serving as a historical 'basecamp' for visitors."
+        }
+    },
+    {
+        "id": 10,
+        "isim": {
+            "tr": "Gökpınar Gölü (Gürün)",
+            "en": "Gökpınar Lake (Gürün)"
+        },
+        "koordinatlar": "38 39 22.2 N 37 18 16.9 E",
+        "sure": {
+            "tr": "Aktiviteye Bağlı",
+            "en": "Activity Dependent"
+        },
+        "aciklama": {
+            "tr": "Hassas ekosistemiyle bilinen göl, kristal sularında yüksek irtifa dalışı ve fotoğrafçılık için idealdir.",
+            "en": "Known for its fragile ecosystem, the lake is ideal for high-altitude diving and photography in its crystal-clear waters."
+        }
+    },
+    {
+        "id": 11,
+        "isim": {
+            "tr": "Sıcak Çermik",
+            "en": "Hot Thermal Springs (Sıcak Çermik)"
+        },
+        "koordinatlar": "39 45 30.0 N 36 44 12.8 E",
+        "sure": {
+            "tr": "Tedavi Odaklı",
+            "en": "Treatment Oriented"
+        },
+        "aciklama": {
+            "tr": "Romatizmal ve kas hastalıkları için gelişmiş altyapıya sahip, termal sağlık turizmi merkezidir.",
+            "en": "A thermal health tourism center with advanced infrastructure for rheumatic and muscular diseases."
+        }
+    },
+    {
+        "id": 12,
+        "isim": {
+            "tr": "Soğuk Çermik",
+            "en": "Cold Thermal Springs (Soğuk Çermik)"
+        },
+        "koordinatlar": "39 50 55.8 N 37 07 38.5 E",
+        "sure": {
+            "tr": "Önleyici Sağlık Seansı",
+            "en": "Preventive Health Session"
+        },
+        "aciklama": {
+            "tr": "28°C su sıcaklığı ile sindirim ve bağırsak sağlığına yönelik önleyici tıp odağı sunar.",
+            "en": "Offers a focus on preventive medicine for digestive and intestinal health with a water temperature of 28°C."
+        }
+    },
+    {
+        "id": 13,
+        "isim": {
+            "tr": "Hamidiye Kültür Bahçesi",
+            "en": "Hamidiye Culture Garden"
+        },
+        "koordinatlar": "39 43 18.2 N 36 55 33.4 E",
+        "sure": {
+            "tr": "Aktivite Süresince",
+            "en": "During Activity"
+        },
+        "aciklama": {
+            "tr": "Kangal köpeği ve atçılık odağında şekillenen, şehrin kültürel kimliğini yansıtan bir merkezdir.",
+            "en": "A center reflecting the city's cultural identity, shaped around Kangal dogs and traditional horsemanship."
+        }
+    },
+    {
+        "id": 14,
+        "isim": {
+            "tr": "Yıldız Dağları",
+            "en": "Yıldız Mountains"
+        },
+        "koordinatlar": "40 07 59.4 N 36 56 00.4 E",
+        "sure": {
+            "tr": "Mevsimlik/Günlük",
+            "en": "Seasonal/Daily"
+        },
+        "aciklama": {
+            "tr": "Sivas'ın kış sporları ekonomisinin temel taşı olup, modern kayak altyapısına sahiptir.",
+            "en": "The cornerstone of Sivas's winter sports economy, featuring modern skiing infrastructure."
+        }
+    },
+    {
+        "id": 15,
+        "isim": {
+            "tr": "Sızır Yaylası",
+            "en": "Sızır Plateau"
+        },
+        "koordinatlar": "39 18 17.9 N 35 56 48.3 E",
+        "sure": {
+            "tr": "Doğa Yürüyüşü Süresince",
+            "en": "During Trekking"
+        },
+        "aciklama": {
+            "tr": "Flora gözlemi ve trekking için uygun, 'doğa anıtı' statüsünde bir ekoturizm rotasıdır.",
+            "en": "An ecotourism route with 'nature monument' status, suitable for flora observation and trekking."
+        }
+    },
+    {
+        "id": 16,
+        "isim": {
+            "tr": "Lezzetçi Sivas Mutfağı",
+            "en": "Lezzetçi Sivas Cuisine"
+        },
+        "koordinatlar": "39 45 02.7 N 37 01 00.6 E",
+        "sure": {
+            "tr": "45-60 Dakika",
+            "en": "45-60 Minutes"
+        },
+        "aciklama": {
+            "tr": "Sabah çorbalarından gece ritüellerine kadar geniş bir yelpazede yerel mutfak sentezi sunar.",
+            "en": "Offers a synthesis of local cuisine ranging from traditional morning soups to nightly culinary rituals."
+        }
+    },
+    {
+        "id": 17,
+        "isim": {
+            "tr": "Güler Yüz Köftecisi / Köftem58",
+            "en": "Güler Yüz Meatball Restaurant"
+        },
+        "koordinatlar": "39 45 02.4 N 37 01 01.1 E",
+        "sure": {
+            "tr": "30-45 Dakika",
+            "en": "30-45 Minutes"
+        },
+        "aciklama": {
+            "tr": "Meşhur Sivas köftesinin kendine has 'kütürdeyen' (snap) dokusunu deneyimlemek için ana noktadır.",
+            "en": "The primary spot to experience the unique 'snap' texture of the famous Sivas meatball."
+        }
+    },
+    {
+        "id": 18,
+        "isim": {
+            "tr": "Sofa Tarz Yöresel Yemekler",
+            "en": "Sofa Tarz Local Dishes"
+        },
+        "koordinatlar": "39 44 45.8 N 37 00 37.7 E",
+        "sure": {
+            "tr": "45 Dakika",
+            "en": "45 Minutes"
+        },
+        "aciklama": {
+            "tr": "Bozkırın direnişini simgeleyen yabani 'madımak' yemeğinin en otantik adresidir.",
+            "en": "The most authentic address for 'madımak' (knotgrass), a wild plant dish symbolizing the spirit of the steppe."
+        }
+    },
+    {
+        "id": 19,
+        "isim": {
+            "tr": "Behram Paşa Hanı",
+            "en": "Behram Pasha Inn"
+        },
+        "koordinatlar": "39 44 50.0 N 37 01 17.8 E",
+        "sure": {
+            "tr": "60-90 Dakika",
+            "en": "60-90 Minutes"
+        },
+        "aciklama": {
+            "tr": "1576 yapımı tarihi kervansaray avlusunda, otantik atmosferde akşam yemeği imkanı sunar.",
+            "en": "Offers dinner in an authentic courtyard atmosphere within a historical caravanserai built in 1576."
+        }
+    },
+    {
+        "id": 20,
+        "isim": {
+            "tr": "346 Kafe (Hamidiye)",
+            "en": "346 Cafe (Hamidiye)"
+        },
+        "koordinatlar": "39 45 10.9 N 37 00 39.6 E",
+        "sure": {
+            "tr": "45-60 Dakika",
+            "en": "45-60 Minutes"
+        },
+        "aciklama": {
+            "tr": "II. Abdülhamid döneminden kalan tarihi at depolarının restore edilmesiyle oluşturulmuş tematik mekandır.",
+            "en": "A thematic venue created by restoring historical horse depots dating back to the era of Abdul Hamid II."
+        }
+    },
+    {
+        "id": 21,
+        "isim": {
+            "tr": "Nevizade Kahvaltı",
+            "en": "Nevizade Breakfast"
+        },
+        "koordinatlar": "39 45 01.2 N 37 00 46.4 E",
+        "sure": {
+            "tr": "60-75 Dakika",
+            "en": "60-75 Minutes"
+        },
+        "aciklama": {
+            "tr": "Sivas'ın tahıl kültürünün bir parçası olan meşhur Sivas çöreği için ideal başlangıç noktasıdır.",
+            "en": "An ideal starting point for the famous Sivas pastry (çörek), a cornerstone of the city's grain culture."
+        }
+    },
+    {
+        "id": 22,
+        "isim": {
+            "tr": "Zanaatkârlar Çarşısı",
+            "en": "Artisans' Bazaar"
+        },
+        "koordinatlar": "39 45 20.7 N 37 00 41.9 E",
+        "sure": {
+            "tr": "30-45 Dakika",
+            "en": "30-45 Minutes"
+        },
+        "aciklama": {
+            "tr": "Ağızlık yapımı ve halı dokuma gibi somut olmayan kültürel mirasın izlenebildiği yaşayan bir müzedir.",
+            "en": "A living museum where intangible cultural heritage, such as pipe making and carpet weaving, can be observed."
+        }
+    },
+    {
+        "id": 23,
+        "isim": {
+            "tr": "Gökpınar Gölü (Alabalık)",
+            "en": "Gökpınar Lake (Trout)"
+        },
+        "koordinatlar": "38 39 22.7 N 37 18 16.7 E",
+        "sure": {
+            "tr": "60-90 Dakika",
+            "en": "60-90 Minutes"
+        },
+        "aciklama": {
+            "tr": "11°C sabit sıcaklıktaki doğal sularda yetişen taze alabalıkların tadılabileceği bir gastronomi noktasıdır.",
+            "en": "A gastronomic point where fresh trout grown in natural waters at a constant 11°C can be tasted."
+        }
+    },
+    {
+        "id": 24,
+        "isim": {
+            "tr": "Atatürk ve Kongre Müzesi",
+            "en": "Atatürk and Congress Museum"
+        },
+        "koordinatlar": "39 44 58.2 N 37 00 49.9 E",
+        "sure": {
+            "tr": "1,5-2 Saat",
+            "en": "1.5-2 Hours"
+        },
+        "aciklama": {
+            "tr": "Milli Mücadele'ye 108 gün başkentlik yapmış; telgraf odası ve tarihi salonuyla Cumhuriyet tarihindeki en kritik karargâhtır.",
+            "en": "Served as the capital of the National Struggle for 108 days; the most critical headquarters in Republic history with its telegraph room and historic hall."
+        }
+    },
+    {
+        "id": 25,
+        "isim": {
+            "tr": "Sivas Arkeoloji Müzesi",
+            "en": "Sivas Archaeology Museum"
+        },
+        "koordinatlar": "39 45 19.5 N 37 00 41.6 E",
+        "sure": {
+            "tr": "2 Saat",
+            "en": "2 Hours"
+        },
+        "aciklama": {
+            "tr": "Orta Anadolu'nun ikinci büyük müzesi; 9 milyon yıllık fosiller ve Hitit dönemine ait Sarissa buluntularını barındırır.",
+            "en": "The second largest museum in Central Anatolia, housing 9-million-year-old fossils and Hittite finds from the ancient city of Sarissa."
+        }
+    },
+    {
+        "id": 26,
+        "isim": {
+            "tr": "Gök Medrese Vakıf Müzesi",
+            "en": "Gök Medrese Foundation Museum"
+        },
+        "koordinatlar": "39 44 37.7 N 37 00 58.6 E",
+        "sure": {
+            "tr": "1 Saat",
+            "en": "1 Hour"
+        },
+        "aciklama": {
+            "tr": "Selçuklu mimarisinin sembollerini (Hayat Ağacı, 12 hayvanlı takvim) barındırır.",
+            "en": "Houses the symbols of Seljuk architecture, such as the Tree of Life and the 12-animal calendar."
+        }
+    },
+    {
+        "id": 27,
+        "isim": {
+            "tr": "Savaş Atları Müzesi",
+            "en": "War Horses Museum"
+        },
+        "koordinatlar": "39 43 19.0 N 36 55 43.0 E",
+        "sure": {
+            "tr": "1 Saat",
+            "en": "1 Hour"
+        },
+        "aciklama": {
+            "tr": "Dünyanın ilk tematik savaş atları müzesi; askeri lojistik tarihini efsanevi at heykelleriyle anlatır.",
+            "en": "The world's first thematic war horses museum, narrating the history of military logistics through legendary horse statues."
+        }
+    },
+    {
+        "id": 28,
+        "isim": {
+            "tr": "Aşık Veysel Müzesi",
+            "en": "Aşık Veysel Museum"
+        },
+        "koordinatlar": "39 27 38.7 N 36 09 55.0 E",
+        "sure": {
+            "tr": "45-60 Dakika",
+            "en": "45-60 Minutes"
+        },
+        "aciklama": {
+            "tr": "Âşıklık geleneğinin merkezinde, Veysel'in sazı ve kişisel eşyalarıyla halkın ruh dünyasına açılan bir kapıdır.",
+            "en": "A gateway to the folk spirit, featuring the famous bard Veysel's lute and personal belongings at the center of the minstrelsy tradition."
+        }
+    },
+    {
+        "id": 29,
+        "isim": {
+            "tr": "Şehir Müzesi",
+            "en": "City Museum"
+        },
+        "koordinatlar": "39 45 04.0 N 37 00 53.6 E",
+        "sure": {
+            "tr": "Belirtilmemiş",
+            "en": "Not Specified"
+        },
+        "aciklama": {
+            "tr": "Geç Osmanlı'dan Cumhuriyet'e kentsel dönüşümü ve modern sivil yaşamın gelişimini belgeleyen merkezdir.",
+            "en": "A center documenting urban transformation and the development of modern civil life from the late Ottoman era to the Republic."
+        }
+    },
+    {
+            "id": 30,
+            "isim": {
+                "tr": "Tuzla Gölü (Kangal)",
+                "en": "Tuzla Lake (Kangal)"
+            },
+            "koordinatlar": "39 03 22.0 N 37 31 30.0 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Kangal ilçesinde bulunan bu tektonik göl, yüksek tuz oranıyla bilinir. Çevresindeki doğal yaşam ve kuş türleri için önemli bir durak noktasıdır.",
+                "en": "This tectonic lake in Kangal is known for its high salinity. It serves as an important stopover for local wildlife and various bird species."
+            }
+        },
+        {
+            "id": 31,
+            "isim": {
+                "tr": "Kangal Köprüsü",
+                "en": "Kangal Bridge"
+            },
+            "koordinatlar": "39 13 53.4 N 37 23 13.9 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Kangal Çayı üzerinde yer alan tarihi taş köprü, Osmanlı mimarisinin dayanıklılığını yansıtır. Halen bölgedeki tarihi geçiş noktalarından biri olarak ayaktadır.",
+                "en": "A historic stone bridge over the Kangal Stream reflecting the durability of Ottoman architecture. It remains standing as one of the region's historical crossing points."
+            }
+        },
+        {
+            "id": 32,
+            "isim": {
+                "tr": "Alacahan Kervansarayı",
+                "en": "Alacahan Caravanserai"
+            },
+            "koordinatlar": "39 05 19.0 N 37 35 08.9 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Selçuklu dönemine ait bu kervansaray, siyah ve beyaz taş işçiliğiyle dikkat çeker. İpek Yolu üzerinde tüccarlar için kritik bir konaklama merkeziydi.",
+                "en": "This Seljuk-era caravanserai is notable for its distinctive black and white stonework. It was a critical lodging center for merchants on the Silk Road."
+            }
+        },
+        {
+            "id": 33,
+            "isim": {
+                "tr": "Yılanlı Dağ",
+                "en": "Yılanlı Mountain"
+            },
+            "koordinatlar": "39 06 44.3 N 37 11 44.2 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Kangal'ın güneyinde yer alan bu dağ, sarp kayalıkları ve endemik bitki türleriyle tanınır. Doğa yürüyüşü ve manzara izlemek için ideal bir noktadır.",
+                "en": "Located south of Kangal, this mountain is known for its steep cliffs and endemic plant species. It is an ideal spot for hiking and scenic views."
+            }
+        },
+        {
+            "id": 34,
+            "isim": {
+                "tr": "Tapışın Gölü",
+                "en": "Tapışın Lake"
+            },
+            "koordinatlar": "39 08 42.0 N 37 27 28.8 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Kangal kırsalında bulunan huzurlu bir tatlı su gölüdür. Bölge halkı tarafından genellikle piknik ve dinlenme alanı olarak tercih edilir.",
+                "en": "A peaceful freshwater lake located in the Kangal countryside. It is frequently preferred by locals as a picnic and relaxation area."
+            }
+        },
+        {
+            "id": 35,
+            "isim": {
+                "tr": "Tödürge Gölü",
+                "en": "Tödürge Lake"
+            },
+            "koordinatlar": "39 51 59.8 N 37 36 59.8 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Sivas'ın en büyük göllerinden biri olan Tödürge, kano sporları ve kuş gözlemciliği için popülerdir. İçindeki küçük adacıklar göle eşsiz bir manzara kazandırır.",
+                "en": "One of Sivas's largest lakes, Tödürge is popular for canoeing and birdwatching. Small islets within the lake give it a unique and scenic landscape."
+            }
+        },
+        {
+            "id": 36,
+            "isim": {
+                "tr": "Zara Ulu Cami",
+                "en": "Zara Grand Mosque"
+            },
+            "koordinatlar": "39 53 52.1 N 37 45 29.9 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Zara ilçe merkezinde bulunan cami, ahşap işçiliği ve geleneksel Türk-İslam mimari özelliklerini taşır. Sade ama etkileyici bir iç mekana sahiptir.",
+                "en": "Located in Zara district center, this mosque features intricate woodwork and traditional Turkish-Islamic architectural elements. It has a simple yet impressive interior."
+            }
+        },
+        {
+            "id": 37,
+            "isim": {
+                "tr": "Gürün Şuğul Vadisi",
+                "en": "Gürün Şuğul Valley"
+            },
+            "koordinatlar": "38 44 42.7 N 37 08 33.0 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Yüksek kayalıklar arasından akan berrak sularıyla ünlü olan vadi, yürüyüş yollarıyla doğaseverleri ağırlar. Kanyon yapısı bölgeye mikroklima özelliği katar.",
+                "en": "Famous for its crystal-clear waters flowing between high cliffs, this valley welcomes nature lovers with its walking paths. Its canyon structure creates a microclimate in the area."
+            }
+        },
+        {
+            "id": 38,
+            "isim": {
+                "tr": "Gürün Kalesi",
+                "en": "Gürün Castle"
+            },
+            "koordinatlar": "38 43 17.0 N 37 16 16.0 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "İlçeye hakim bir tepe üzerinde yer alan kalenin temelleri çok eski dönemlere dayanır. Günümüzde panoramik Gürün manzarası sunan tarihi bir gözetleme noktasıdır.",
+                "en": "Situated on a hill overlooking the district, the castle's foundations date back to ancient times. Today, it serves as a historical lookout point offering panoramic views of Gürün."
+            }
+        },
+        {
+            "id": 39,
+            "isim": {
+                "tr": "Samuha Antik Kenti",
+                "en": "Samuha Ancient City"
+            },
+            "koordinatlar": "39 44 03.8 N 36 41 07.1 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Hitit döneminin önemli dini ve siyasi merkezlerinden biridir. Kızılırmak kenarında yer alan bu antik kentte arkeolojik kazılar halen devam etmektedir.",
+                "en": "One of the major religious and political centers of the Hittite period. Located by the Kızılırmak River, archaeological excavations continue at this ancient site."
+            }
+        },
+        {
+            "id": 40,
+            "isim": {
+                "tr": "Eğriçimen Yaylası",
+                "en": "Eğriçimen Plateau"
+            },
+            "koordinatlar": "40 21 15.1 N 37 57 10.1 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Koyulhisar'da bulunan bu yayla, kıvrımlı dereleri ve yemyeşil çayırlarıyla 'Karadeniz'i aratmayan' bir doğaya sahiptir. Yaz aylarında serin havası için tercih edilir.",
+                "en": "Located in Koyulhisar, this plateau features winding streams and lush green meadows resembling Black Sea landscapes. It is popular in summer for its cool air."
+            }
+        },
+        {
+            "id": 41,
+            "isim": {
+                "tr": "Koyulhisar Kalesi",
+                "en": "Koyulhisar Castle"
+            },
+            "koordinatlar": "40 18 05.4 N 37 50 18.6 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Kelkit Vadisi'ne hakim stratejik bir konumda bulunan kale, Roma ve Bizans dönemlerinden izler taşır. Dik yamaçları sayesinde tarih boyunca savunması kolay bir nokta olmuştur.",
+                "en": "Strategically positioned overlooking the Kelkit Valley, this castle bears traces of Roman and Byzantine eras. Its steep slopes made it an easily defensible point throughout history."
+            }
+        },
+        {
+            "id": 42,
+            "isim": {
+                "tr": "Çaltı Çayı",
+                "en": "Çaltı Stream"
+            },
+            "koordinatlar": "39 23 00.0 N 38 01 00.1 E",
+            "sure": {
+                "tr": "Belirtilmemiş",
+                "en": "Not Specified"
+            },
+            "aciklama": {
+                "tr": "Divriği yakınlarından geçen bu çay, Fırat Nehri'nin önemli kollarından biridir. Vadi boyunca oluşturduğu derin kanyonlar ve demir yolu hattı manzarasıyla ünlüdür.",
+                "en": "Passing near Divriği, this stream is a major tributary of the Euphrates River. It is famous for the deep canyons it carves and the scenic railway line running alongside it."
+            }
+        }
+]

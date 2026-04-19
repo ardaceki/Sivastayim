@@ -1,0 +1,240 @@
+{
+    "city": "Sivas",
+    "total_dishes": 18,
+    "dishes": [
+        {
+            "id": "peskutan_corbasi",
+            "tr": {
+                "name": "Peskütan Çorbası",
+                "description": "Yarma ve peskütan (özel bir yoğurt türevi) ile hazırlanan geleneksel bir kış çorbası.",
+                "recipe": "Yarma ve mercimek haşlanır. Peskütan yoğurdu suyla açılarak karışıma eklenir ve sürekli karıştırılarak pişirilir. Üzerine tereyağında yakılmış nane dökülerek servis edilir."
+            },
+            "en": {
+                "name": "Peskutan Soup",
+                "description": "A traditional winter soup made with cracked wheat and 'peskutan' (a local yogurt variant).",
+                "recipe": "Boil cracked wheat and lentils. Thin the peskutan yogurt with water, add to the mixture, and cook while stirring constantly. Serve with dried mint sizzled in butter."
+            }
+        },
+        {
+            "id": "kesme_asi",
+            "tr": {
+                "name": "Kesme Aşı",
+                "description": "Ev yapımı erişteler ve yeşil mercimekle yapılan doyurucu bir çorba.",
+                "recipe": "Yeşil mercimek haşlanır, içine küçük kesilmiş erişteler eklenir. Sosu için kıyma, nane ve pul biber yağda kızartılarak yemeğin üzerine gezdirilir."
+            },
+            "en": {
+                "name": "Kesme Asi",
+                "description": "A filling soup made with homemade noodles and green lentils.",
+                "recipe": "Boil green lentils and add small homemade noodles. For the sauce, sauté minced meat with mint and red pepper flakes in oil, then pour over the soup."
+            }
+        },
+        {
+            "id": "mercimek_badi",
+            "tr": {
+                "name": "Mercimek Badı",
+                "description": "Bulgur, mercimek ve domatesle hazırlanan, Sivas usulü tok tutan bir lezzet.",
+                "recipe": "Yeşil mercimek haşlanır, içine ince bulgur eklenerek suyunu çekmesi beklenir. Domates, soğan ve salça ile karıştırılarak sulu bir kıvamda servis edilir."
+            },
+            "en": {
+                "name": "Lentil Badi",
+                "description": "A Sivas specialty made with bulgur, lentils, and tomatoes that keeps you full for long.",
+                "recipe": "Boil green lentils, add fine bulgur and let it absorb the water. Mix with fresh tomatoes, onions, and tomato paste; serve with a slightly juicy consistency."
+            }
+        },
+        {
+            "id": "baviko",
+            "tr": {
+                "name": "Baviko",
+                "description": "Özel hamuru ve sarımsaklı ayranıyla bilinen, Sivas'a özgü nadir bir lezzet.",
+                "recipe": "Sert bir hamur hazırlanıp fırınlanır. Pişen hamurun içi oyulur, küçük parçalara ayrılır ve üzerine bol sarımsaklı ayran ile eritilmiş tereyağı dökülür."
+            },
+            "en": {
+                "name": "Baviko",
+                "description": "A rare Sivas specialty known for its special dough and garlic yogurt sauce.",
+                "recipe": "Bake a firm dough. Hollow out the baked bread, crumble the inside, and pour plenty of garlic yogurt sauce and melted butter over it."
+            }
+        },
+        {
+            "id": "sirok",
+            "tr": {
+                "name": "Sirok (Gömme)",
+                "description": "Fırında gevrek pişmiş hamurun tereyağı ve ayranla buluştuğu bir hamur işi.",
+                "recipe": "Hamur fırında sertleşene kadar pişirilir. Üst kısmı kesilip içi kare şeklinde doğranır. İçine bol tereyağı, kenarlarına ise ayran dökülerek servis edilir."
+            },
+            "en": {
+                "name": "Sirok (Gomme)",
+                "description": "A pastry dish where crispy baked dough meets butter and ayran.",
+                "recipe": "Bake dough until the crust is very crispy. Cut off the top, dice the inside into squares. Fill with butter and pour ayran around the edges."
+            }
+        },
+        {
+            "id": "sivas_katmeri",
+            "tr": {
+                "name": "Sivas Katmeri",
+                "description": "Bol yağlı ve kat kat dokusuyla meşhur bir hamur işi.",
+                "recipe": "Mayalı hamur açılır, her katına bol tereyağı sürülerek katlanır. Tekrar açılıp fırınlanır; dışı çıtır içi yumuşak bir hal alır."
+            },
+            "en": {
+                "name": "Sivas Katmer",
+                "description": "A famous pastry with rich buttery layers.",
+                "recipe": "Roll out leavened dough, spread butter on every layer and fold. Roll out once more and bake until the outside is crispy and the inside is soft."
+            }
+        },
+        {
+            "id": "sivas_ketesi",
+            "tr": {
+                "name": "Sivas Ketesi",
+                "description": "Uzun süre taze kalan, kahvaltıların vazgeçilmezi mayalı ekmek.",
+                "recipe": "Maya, un ve süt ile hazırlanan hamur, içine bazen unlu bir harç konularak bazen de sade şekilde fırınlanır."
+            },
+            "en": {
+                "name": "Sivas Kete",
+                "description": "A staple leavened bread for breakfast that stays fresh for a long time.",
+                "recipe": "Prepare dough with yeast, flour, and milk. Bake it either plain or with a flour-based filling inside."
+            }
+        },
+        {
+            "id": "divrigi_pilavi",
+            "tr": {
+                "name": "Divriği Pilavı",
+                "description": "Et, nohut, üzüm ve bademli, baharat aroması yüksek özel bir pilav.",
+                "recipe": "Kuşbaşı etler pişirilir. Pirinç; nohut, kuru üzüm ve yenibahar gibi baharatlarla birlikte et suyuyla demlenerek pişirilir."
+            },
+            "en": {
+                "name": "Divrigi Pilaf",
+                "description": "A special aromatic rice dish with meat, chickpeas, raisins, and almonds.",
+                "recipe": "Cook cubed meat. Simmer rice with chickpeas, raisins, and spices like allspice in meat stock until perfectly tender."
+            }
+        },
+        {
+            "id": "hingel",
+            "tr": {
+                "name": "Hingel",
+                "description": "Patatesli veya peynirli iç harçla yapılan büyük ve doyurucu bir mantı.",
+                "recipe": "Hamur daire şeklinde açılır, içine haşlanmış patatesli harç konur. Kenarları örgü gibi kapatılıp haşlanır, üzerine yoğurt ve tereyağı eklenir."
+            },
+            "en": {
+                "name": "Hingel",
+                "description": "Large and filling dumplings filled with potato or cheese stuffing.",
+                "recipe": "Roll out dough, fill with mashed potato stuffing. Fold edges in a braid pattern, boil, and serve with yogurt and melted butter."
+            }
+        },
+        {
+            "id": "pezik",
+            "tr": {
+                "name": "Pezik",
+                "description": "Pancar sapından yapılan Sivas'ın en meşhur dal turşusu.",
+                "recipe": "Pancar sapları (dal) ayıklanır, haşlanır. Sarımsak, sirke ve pul biberli suyun içinde fermente edilerek turşu haline getirilir."
+            },
+            "en": {
+                "name": "Pezik",
+                "description": "Sivas's most famous pickle made from beet stems.",
+                "recipe": "Clean and boil beet stems. Ferment them in a mixture of garlic, vinegar, and red pepper flakes to make the pickle."
+            }
+        },
+        {
+            "id": "sivas_kebabi",
+            "tr": {
+                "name": "Sivas Kebabı",
+                "description": "Özel açık ocaklarda pişen, kuzu eti ve sebzelerin eşsiz buluşması.",
+                "recipe": "Parça kuzu etleri, patlıcan, domates ve biberler özel şişlere dizilir. Tuğladan örülü açık ocaklarda pişirilerek lavaşla servis edilir."
+            },
+            "en": {
+                "name": "Sivas Kebab",
+                "description": "A unique blend of lamb and vegetables cooked in special open-top brick ovens.",
+                "recipe": "Skewer pieces of lamb with eggplant, tomatoes, and peppers. Cook in open brick ovens and serve with lavash bread."
+            }
+        },
+        {
+            "id": "icli_kofte",
+            "tr": {
+                "name": "İçli Köfte",
+                "description": "Sivas usulü, yuvarlak şekilli ve üzerine tereyağı sürülerek sunulan içli köfte.",
+                "recipe": "Bulgurlu dış harç yuvarlanarak açılır, içine kıymalı ve cevizli harç konur. Haşlandıktan sonra üzerine eritilmiş tereyağı sürülür."
+            },
+            "en": {
+                "name": "Icli Kofte",
+                "description": "Sivas-style stuffed bulgur balls, round-shaped and served with butter.",
+                "recipe": "Shape the bulgur dough into rounds, fill with minced meat and walnut stuffing. After boiling, brush with melted butter."
+            }
+        },
+        {
+            "id": "subura",
+            "tr": {
+                "name": "Sübüra",
+                "description": "Küçük hamur parçalarının yoğurtla buluştuğu ferahlatıcı bir yaz aşı.",
+                "recipe": "Minik kare hamurlar haşlanır, ılıdıktan sonra sarımsaklı yoğurtla karıştırılır. Üzerine nane yakılmış yağ dökülür."
+            },
+            "en": {
+                "name": "Subura",
+                "description": "A refreshing summer dish of small dough bits mixed with yogurt.",
+                "recipe": "Boil tiny square dough pieces, let them cool, and mix with garlic yogurt. Top with oil infused with dried mint."
+            }
+        },
+        {
+            "id": "madimak",
+            "tr": {
+                "name": "Madımak",
+                "description": "Doğada yetişen madımak otunun pastırma ve bulgurla pişirilmesiyle yapılan şifalı yemek.",
+                "recipe": "Madımaklar ince doğranır. Soğan, sarımsak ve pastırma ile kavrulur. Bulgur ve su eklenerek yumuşayana kadar pişirilir."
+            },
+            "en": {
+                "name": "Madimak",
+                "description": "A healthy dish made by cooking wild madimak herbs with pastrami and bulgur.",
+                "recipe": "Finely chop the madimak herbs. Sauté with onions, garlic, and pastrami. Add bulgur and water, then cook until tender."
+            }
+        },
+        {
+            "id": "patlican_pehli",
+            "tr": {
+                "name": "Patlıcan Pehli",
+                "description": "Koyun eti ve patlıcanın taş fırında ağır ağır pişmesiyle oluşan kebap.",
+                "recipe": "Kemikli etler mühürlenir. Patlıcanlar kızartılıp etlerle birlikte domates ve biber eşliğinde fırınlanır."
+            },
+            "en": {
+                "name": "Eggplant Pehli",
+                "description": "A kebab formed by slow-cooking lamb and eggplant in a stone oven.",
+                "recipe": "Sear the bone-in meat. Fry eggplants and bake them together with the meat, tomatoes, and peppers."
+            }
+        },
+        {
+            "id": "gulut",
+            "tr": {
+                "name": "Gülüt",
+                "description": "Mısır unu ile hazırlanan, üzerine haşhaş serpilen Sivas keki.",
+                "recipe": "Yumurta, şeker ve süt çırpılır. Mısır unu ve buğday unu eklenerek kek harcı yapılır. Üzerine haşhaş ve ceviz serpilerek fırınlanır."
+            },
+            "en": {
+                "name": "Gulut",
+                "description": "A Sivas-style cake made with cornmeal and topped with poppy seeds.",
+                "recipe": "Whisk eggs, sugar, and milk. Mix in cornmeal and wheat flour. Sprinkle with poppy seeds and walnuts before baking."
+            }
+        },
+        {
+            "id": "kelle_tatlisi",
+            "tr": {
+                "name": "Kelle Tatlısı",
+                "description": "İçinde fındık, üzüm ve erişte bulunan, kadayıfı andıran zengin bir tatlı.",
+                "recipe": "Hamur katmanları arasına bol kuruyemiş, erişte ve tarçın konularak rulo yapılır veya tepsiye dizilir. Fırınlanıp şerbetlenir."
+            },
+            "en": {
+                "name": "Kelle Dessert",
+                "description": "A rich dessert resembling kadayıf, filled with nuts, raisins, and noodles.",
+                "recipe": "Layer dough with plenty of nuts, noodles, and cinnamon. Roll or arrange in a tray, bake until golden, and soak in syrup."
+            }
+        },
+        {
+            "id": "kalburabastı",
+            "tr": {
+                "name": "Kalburabastı",
+                "description": "Kalbur üzerine bastırılarak şekil verilen şerbetli ve kıyır bir tatlı.",
+                "recipe": "Yağlı bir hamur hazırlanır, kalbur üzerinde şekil verilip içine ceviz konur. Piştikten sonra soğuk şerbet dökülür."
+            },
+            "en": {
+                "name": "Kalburabasti",
+                "description": "A crispy syrup-soaked pastry shaped by pressing on a sieve.",
+                "recipe": "Prepare a buttery dough, shape it on a sieve and place a walnut inside. Bake until crisp and soak with cold syrup."
+            }
+        }
+    ]
+}

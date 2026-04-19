@@ -1,0 +1,682 @@
+[
+  {
+    "id": "SIV-001",
+    "category": "Scholar",
+    "name": "Ahi Emir Ahmed",
+    "title": {
+      "tr": "Ahilik Mektebi Öncüsü",
+      "en": "Pioneer of the Ahi Order"
+    },
+    "bio": {
+      "tr": "Horasan'dan göç ederek önce Bayburt'a, ardından Sivas'a yerleşen önemli bir şahsiyettir. Esnafı manevi ve ahlaki bakımdan disipline eden Ahilik geleneğinin bölgedeki en önemli temsilcisidir. Türbesi halen Sivas'ta Vakıflar Bölge Müdürlüğü tarafından korunmaktadır.",
+      "en": "He was a significant figure who migrated from Khorasan to Bayburt before settling in Sivas. He served as the primary representative of the Ahi tradition, which spiritually and morally disciplined the artisan guilds. His tomb is currently preserved in Sivas by the Regional Directorate of Foundations."
+    },
+    "didYouKnow": {
+      "tr": "Vakıf kayıtlarında tam ismi 'Ahi Emir Ahmed Bin Zeynül-Hacc' olarak geçer.",
+      "en": "His full name is recorded in foundation registers as 'Ahi Emir Ahmed Bin Zeynül-Hacc'."
+    }
+  },
+  {
+    "id": "SIV-002",
+    "category": "Politician",
+    "name": "Kadı Ahmed Burhaneddin",
+    "title": {
+      "tr": "Sivas Hükümdarı ve Alim",
+      "en": "Ruler of Sivas and Scholar"
+    },
+    "bio": {
+      "tr": "Oğuzların Salur boyundan gelen, eğitimini Mısır'da tamamlamış bir alim ve siyasetçidir. Sivas Hükümdarı olarak 'Emir Kadı' adıyla şöhret bulmuş, Türkçe, Arapça ve Farsça divan sahibi bir şairdir. 1384 yılında Akkoyunlu aşireti ile yaptığı bir kavgada öldürülmüştür.",
+      "en": "Descending from the Salur branch of the Oghuz Turks, he was a scholar and politician educated in Egypt. He gained fame as 'Emir Kadı' while ruling Sivas and was a poet with divans in Turkish, Arabic, and Persian. He was killed in 1384 during a conflict with the Akkoyunlu tribe."
+    },
+    "didYouKnow": {
+      "tr": "Divanının dünyadaki tek nüshası Londra Kütüphanesi'nde bulunmaktadır.",
+      "en": "The only extant copy of his Divan in the world is held in the British Library in London."
+    }
+  },
+  {
+    "id": "SIV-003",
+    "category": "Scholar",
+    "name": "Molla Hüsrev",
+    "title": {
+      "tr": "Fatih Devri Şeyhülislamı",
+      "en": "Sheikh al-Islam of the Fatih Era"
+    },
+    "bio": {
+      "tr": "Sivas-Tokat bölgesindeki Arsak kabilesine mensup, Sivas'ta medrese eğitimi görmüş büyük bir din bilginidir. İstanbul'un fethinden sonra kadılık yapmış ve Osmanlı Devleti'nin Şeyhülislamlık makamına yükselmiştir. Fıkıh ve tefsir alanında yazdığı eserler Osmanlı eğitim sisteminin temelini oluşturmuştur.",
+      "en": "A prominent religious scholar from the Arsak tribe of the Sivas-Tokat region, he completed his initial medrese education in Sivas. Following the conquest of Istanbul, he served as a judge and eventually rose to the rank of Sheikh al-Islam. His works on Islamic jurisprudence and exegesis formed the foundation of the Ottoman educational system."
+    },
+    "didYouKnow": {
+      "tr": "II. Murad döneminde Varna Savaşı'na bizzat katılmıştır.",
+      "en": "He personally participated in the Battle of Varna during the reign of Murad II."
+    }
+  },
+  {
+    "id": "SIV-004",
+    "category": "Scholar",
+    "name": "Şemseddin-i Sivasi",
+    "title": {
+      "tr": "Sivas'ın Manevi Koruyucusu",
+      "en": "Spiritual Guardian of Sivas"
+    },
+    "bio": {
+      "tr": "Halveti tarikatının Şemsiyye kolunu kuran, alim ve mutasavvıf bir şairdir. Sivas Valisi Hasan Paşa'nın davetiyle Meydan Camii'nde irşad faaliyetlerine başlamış ve ömrünü burada tamamlamıştır. Kırka yakın eseriyle bölgenin dini ve kültürel kimliğini şekillendirmiştir.",
+      "en": "He was a scholar and mystic poet who founded the Shamsiyya branch of the Halveti order. Upon the invitation of Governor Hasan Pasha, he began his teaching activities at the Meydan Mosque, where he spent the rest of his life. He shaped the religious and cultural identity of the region with nearly forty published works."
+    },
+    "didYouKnow": {
+      "tr": "Esmer teninden dolayı halk arasında 'Kara Şems' olarak anılırdı.",
+      "en": "Due to his dark complexion, he was popularly known as 'Kara Shams' (Black Shams)."
+    }
+  },
+  {
+    "id": "SIV-005",
+    "category": "Scholar",
+    "name": "Abdulmecid Bin Muharrem Es-Sivasi",
+    "title": {
+      "tr": "İstanbul Davetlisi Alim",
+      "en": "Invited Scholar to Istanbul"
+    },
+    "bio": {
+      "tr": "Sultan III. Mehmed'in daveti üzerine Sivas'tan İstanbul'a giden ve orada büyük itibar gören bir din bilginidir. Şiirlerinde 'Şeyhi' mahlasını kullanmış ve tasavvufi konularda derinlikli eserler kaleme almıştır. Kabri İstanbul Eyüp'teki Nişancı Dergahı'nda bulunmaktadır.",
+      "en": "He was an esteemed religious scholar who traveled from Sivas to Istanbul upon the invitation of Sultan Mehmed III. He used the pen name 'Şeyhi' in his poetry and authored profound works on mystical subjects. His grave is located at the Nişancı Lodge in Eyüp, Istanbul."
+    },
+    "didYouKnow": {
+      "tr": "Telif eserleri matbu olmasa da el yazması nüshaları geniş kitlelere ulaşmıştır.",
+      "en": "Although his original works were not printed, his handwritten manuscripts reached wide audiences."
+    }
+  },
+  {
+    "id": "SIV-006",
+    "category": "Scholar",
+    "name": "Numan Efendi",
+    "title": {
+      "tr": "Sarıhatipoğulları Müftüsü",
+      "en": "Mufti of the Sarihatipoğulları Family"
+    },
+    "bio": {
+      "tr": "Sivas'ın köklü Sarıhatipoğulları ailesine mensup, 18. yüzyılda yaşamış erdemli bir alim ve müftüdür. Ulu Camii'nin batısında kendi adına bir kütüphane, çeşme ve konak yaptırarak şehre mimari miras bırakmıştır. Aile kabristanı halen kendi yaptırdığı kütüphane ile çeşme arasındadır.",
+      "en": "He was a virtuous 18th-century scholar and mufti belonging to the established Sarihatipoğulları family of Sivas. He left an architectural legacy to the city by building a library, fountain, and mansion to the west of the Grand Mosque. The family cemetery remains situated between the library and fountain he commissioned."
+    },
+    "didYouKnow": {
+      "tr": "Ünlü müzikolog Muzaffer Sarısözen, Numan Efendi'nin torunlarındandır.",
+      "en": "The renowned musicologist Muzaffer Sarısözen is a direct descendant and grandson of Numan Efendi."
+    }
+  },
+  {
+    "id": "SIV-007",
+    "category": "Politician",
+    "name": "Halil Rıfat Paşa",
+    "title": {
+      "tr": "Yol Yapım Vizyoneri",
+      "en": "Road-Building Visionary"
+    },
+    "bio": {
+      "tr": "Sivas Valiliği döneminde ulaşımdan eğitime kadar birçok alanda devrim niteliğinde kalkınma projeleri yürütmüştür. Bölge genelinde yüzlerce köprü ve yüzlerce kilometrelik yol inşa ederek modern ulaşım ağının temellerini atmıştır. Hizmetleri İzmir Valiliği ve Osmanlı Sadrazamlığı görevleriyle devam etmiştir.",
+      "en": "During his tenure as Governor of Sivas, he led revolutionary development projects ranging from transportation to education. He laid the foundations for a modern network by building hundreds of bridges and hundreds of kilometers of roads across the region. His career culminated in the roles of Governor of Izmir and Grand Vizier of the Ottoman Empire."
+    },
+    "didYouKnow": {
+      "tr": "'Gidemediğin yer senin değildir' sözü Türk ulaşım tarihine bir ilke olarak geçmiştir.",
+      "en": "His motto, 'The place you cannot reach is not yours,' became a foundational principle in Turkish transportation history."
+    }
+  },
+  {
+    "id": "SIV-008",
+    "category": "Politician",
+    "name": "Vali Muammer Bey",
+    "title": {
+      "tr": "Sivas Valisi ve Milletvekili",
+      "en": "Governor of Sivas and Deputy"
+    },
+    "bio": {
+      "tr": "Mülkiye mezunu bir devlet adamı olup Sivas'ta maiyet memurluğundan valiliğe kadar yükselmiştir. Çok dilli yapısıyla bölgedeki idari süreçleri başarıyla yönetmiş ve 1913-1923 yılları arasında şehre hizmet etmiştir. 1923 yılında Cumhuriyet döneminin ilk Sivas milletvekillerinden biri olmuştur.",
+      "en": "A graduate of the Faculty of Political Science, he was a statesman who rose from a junior official to the Governor of Sivas. He successfully managed regional administrative processes with his multilingual skills, serving the city from 1913 to 1923. In 1923, he became one of the first Sivas deputies of the Republican era."
+    },
+    "didYouKnow": {
+      "tr": "Fransızca, Arapça ve Farsça'nın yanı sıra Ermenice de bilmekteydi.",
+      "en": "In addition to French, Arabic, and Persian, he was also proficient in Armenian."
+    }
+  },
+  {
+    "id": "SIV-009",
+    "category": "Politician",
+    "name": "Muhsin Yazıcıoğlu",
+    "title": {
+      "tr": "BBP Kurucu Genel Başkanı",
+      "en": "Founding President of BBP"
+    },
+    "bio": {
+      "tr": "Sivas'ın Şarkışla ilçesinde doğan siyasetçi, Büyük Birlik Partisi'nin kurucu lideridir. Türk siyasetinde dürüstlüğü ve ilkeli duruşuyla geniş kitlelerin saygısını kazanmıştır. Sivas'ı parlamentoda birçok dönem temsil ederek şehrin siyasi sembollerinden biri haline gelmiştir.",
+      "en": "Born in the Şarkışla district of Sivas, this politician was the founding leader of the Great Unity Party (BBP). He earned widespread respect in Turkish politics for his honesty and principled stance. He became a political symbol of the city, representing Sivas in parliament for multiple terms."
+    },
+    "didYouKnow": {
+      "tr": "Vefatından sonra Sivas halkı tarafından 'Başkan' sıfatıyla anılmaya devam etmiştir.",
+      "en": "Following his death, he continues to be remembered by the people of Sivas with the title 'President'."
+    }
+  },
+  {
+    "id": "SIV-010",
+    "category": "Politician",
+    "name": "İsmet Yılmaz",
+    "title": {
+      "tr": "Bakan ve Sivas Milletvekili",
+      "en": "Minister and Sivas Representative"
+    },
+    "bio": {
+      "tr": "Milli Savunma ve Milli Eğitim Bakanlığı gibi kritik devlet görevlerinde bulunmuş etkili bir Sivas temsilcisidir. Hukukçu ve mühendis kimliğiyle bölgenin stratejik yatırımlarında aktif rol oynamıştır. Sivas'ın modern kalkınma projelerinde önemli bir siyasi figürdür.",
+      "en": "An influential representative of Sivas, he has held critical state positions including Minister of National Defense and Minister of National Education. As both a lawyer and an engineer, he played an active role in the region's strategic investments. He is a key political figure in Sivas's modern development projects."
+    },
+    "didYouKnow": {
+      "tr": "Siyaset öncesi Denizcilik Müsteşarlığı görevini de yürütmüştür.",
+      "en": "Prior to entering politics, he served as the Undersecretary of Maritime Affairs."
+    }
+  },
+  {
+    "id": "SIV-011",
+    "category": "Politician",
+    "name": "Abdüllatif Şener",
+    "title": {
+      "tr": "Başbakan Yardımcısı ve Akademisyen",
+      "en": "Deputy Prime Minister and Academic"
+    },
+    "bio": {
+      "tr": "Sivaslı siyasetçi, Türkiye Cumhuriyeti'nde Başbakan Yardımcılığı ve Maliye Bakanlığı görevlerini üstlenmiştir. Akademik kariyerinin ardından siyasete atılarak ekonomi politikaları üzerinde uzmanlaşmıştır. Uzun yıllar Sivas milletvekili olarak şehri TBMM'de temsil etmiştir.",
+      "en": "A politician from Sivas, he served as Deputy Prime Minister and Minister of Finance for the Republic of Turkey. After an academic career, he entered politics and specialized in economic policy. He represented Sivas in the Grand National Assembly for many years as a deputy."
+    },
+    "didYouKnow": {
+      "tr": "Siyaset kariyerinden önce Sivas Cumhuriyet Üniversitesi'nde öğretim üyeliği yapmıştır.",
+      "en": "Before his political career, he served as a faculty member at Sivas Cumhuriyet University."
+    }
+  },
+  {
+    "id": "SIV-012",
+    "category": "Politician",
+    "name": "Refik Koraltan",
+    "title": {
+      "tr": "TBMM Başkanı ve Devlet Adamı",
+      "en": "Speaker of the GNAM and Statesman"
+    },
+    "bio": {
+      "tr": "Sivaslı hukukçu ve siyasetçi, Demokrat Parti döneminin kurucu isimlerinden olup TBMM Başkanlığı yapmıştır. Milli Mücadele yıllarında aktif görev alarak bağımsızlık sürecine katkıda bulunmuştur. Sivas Kongresi ruhunu parlamenter sisteme taşıyan önemli bir isimdir.",
+      "en": "A lawyer and politician from Sivas, he was one of the founding members of the Democrat Party and served as Speaker of the Grand National Assembly. He took an active role during the National Struggle years, contributing to the independence process. He is a key figure who brought the spirit of the Sivas Congress into the parliamentary system."
+    },
+    "didYouKnow": {
+      "tr": "Bağımsızlık sürecindeki hizmetlerinden dolayı İstiklal Madalyası sahibidir.",
+      "en": "He was a recipient of the Independence Medal for his services during the struggle for independence."
+    }
+  },
+  {
+    "id": "SIV-013",
+    "category": "Politician",
+    "name": "Nebahat Albayrak",
+    "title": {
+      "tr": "Hollanda Devlet Sekreteri",
+      "en": "Dutch State Secretary"
+    },
+    "bio": {
+      "tr": "Sivas doğumlu siyasetçi, Hollanda hükümetinde Adalet Devlet Sekreterliği yaparak uluslararası başarı kazanmıştır. Avrupa'daki Türk diasporasının en üst düzey temsilcilerinden biri olarak tanınır. Sivaslı bir ailenin çocuğu olarak küresel siyaset sahnesinde yer almıştır.",
+      "en": "Born in Sivas, this politician gained international acclaim by serving as the State Secretary for Justice in the Dutch government. She is recognized as one of the highest-ranking representatives of the Turkish diaspora in Europe. As the child of a Sivas family, she has made a significant impact on the global political stage."
+    },
+    "didYouKnow": {
+      "tr": "Hollanda'da kabineye giren ilk Türk kökenli siyasetçilerden biridir.",
+      "en": "She was one of the first politicians of Turkish origin to join a cabinet in the Netherlands."
+    }
+  },
+  {
+    "id": "SIV-014",
+    "category": "Politician",
+    "name": "Nurettin Sözen",
+    "title": {
+      "tr": "İstanbul Büyükşehir Belediye Başkanı",
+      "en": "Mayor of Istanbul Metropolitan Municipality"
+    },
+    "bio": {
+      "tr": "Sivas Gürün doğumlu tıp profesörü ve siyasetçi, 1989-1994 yılları arasında İstanbul Belediye Başkanlığı yapmıştır. Cerrahi alanındaki akademik başarılarını idari liderlikle birleştirmiştir. İstanbul ve memleketi Sivas arasında önemli bir sosyal köprü vazifesi görmüştür.",
+      "en": "A professor of medicine and politician born in Gürün, Sivas, he served as the Mayor of Istanbul from 1989 to 1994. He combined his academic success in surgery with administrative leadership. He served as an important social bridge between Istanbul and his hometown of Sivas."
+    },
+    "didYouKnow": {
+      "tr": "Belediye başkanlığı öncesinde Cerrahpaşa Tıp Fakültesi'nde dekanlık yapmıştır.",
+      "en": "Prior to his mayoralty, he served as the dean of the Cerrahpaşa Faculty of Medicine."
+    }
+  },
+  {
+    "id": "SIV-015",
+    "category": "Politician",
+    "name": "Behram Paşa",
+    "title": {
+      "tr": "Osmanlı Beylerbeyi",
+      "en": "Ottoman Beylerbeyi"
+    },
+    "bio": {
+      "tr": "Osmanlı Enderununda yetişmiş, Diyarbakır ve Rumeli Beylerbeyliği yapmış Sivaslı bir devlet adamıdır. Şehre kazandırdığı Behrampaşa Hanı ve Kurşunlu Hamamları ile Sivas mimari kimliğine kalıcı eserler bırakmıştır. Kanuni ve II. Selim dönemlerinde üst düzey idari görevler üstlenmiştir.",
+      "en": "A statesman from Sivas trained in the Ottoman Enderun school, he served as the Beylerbeyi of Diyarbakir and Rumeli. He left permanent marks on Sivas's architectural identity with the Behrampaşa Han and Kurşunlu Baths. He held high-level administrative positions during the reigns of Suleiman the Magnificent and Selim II."
+    },
+    "didYouKnow": {
+      "tr": "Sivas'taki Kurşunlu Çifte Hamamları da onun banisidir.",
+      "en": "He was also the patron of the Kurşunlu Twin Baths in Sivas."
+    }
+  },
+  {
+    "id": "SIV-016",
+    "category": "Ashik",
+    "name": "Aşık Veysel Şatıroğlu",
+    "title": {
+      "tr": "Halk Ozanı ve Saz Üstadı",
+      "en": "Folk Poet and Baglama Master"
+    },
+    "bio": {
+      "tr": "Küçük yaşta gözlerini kaybetmesine rağmen gönül gözüyle Türk halk müziğinin en evrensel eserlerini üretmiştir. Köy Enstitüleri'nde saz öğretmenliği yaparak halk kültürünün akademikleşmesine katkı sağlamıştır. Şiirleri doğa sevgisi, hoşgörü ve toplumsal birlik üzerine yoğunlaşmıştır.",
+      "en": "Despite losing his physical sight at a young age, he produced the most universal works of Turkish folk music through his inner vision. He contributed to the academic institutionalization of folk culture by teaching baglama at Village Institutes. His poetry focused on nature, tolerance, and social unity."
+    },
+    "didYouKnow": {
+      "tr": "TBMM tarafından 'Ana dilimize yaptığı hizmetlerden' dolayı maaş bağlanmıştır.",
+      "en": "The Grand National Assembly granted him a special salary for his 'services to our mother tongue'."
+    }
+  },
+  {
+    "id": "SIV-017",
+    "category": "Ashik",
+    "name": "Pir Sultan Abdal",
+    "title": {
+      "tr": "Alevi-Bektaşi Halk Şairi",
+      "en": "Alevi-Bektashi Folk Poet"
+    },
+    "bio": {
+      "tr": "Sivas'ın Banaz köyünde yaşamış, Alevi-Bektaşi geleneğinin en güçlü ve lirik temsilcilerinden biridir. Deyişleri Anadolu'nun sosyal ve dini hafızasında dört yüz yıldır yankılanmaya devam etmektedir. İnançları uğruna verdiği mücadele ile Türk halk edebiyatında efsanevi bir kimlik kazanmıştır.",
+      "en": "Living in the village of Banaz, Sivas, he is one of the most powerful and lyrical representatives of the Alevi-Bektashi tradition. His deyiş (folk poems) have echoed in the social and religious memory of Anatolia for four hundred years. His struggle for his beliefs earned him legendary status in Turkish folk literature."
+    },
+    "didYouKnow": {
+      "tr": "İbrahim Aslanoğlu'na göre edebiyat tarihinde en az altı farklı Pir Sultan tespit edilmiştir.",
+      "en": "According to historian Ibrahim Aslanoğlu, at least six different Pir Sultans have been identified in literary history."
+    }
+  },
+  {
+    "id": "SIV-018",
+    "category": "Ashik",
+    "name": "Ruhsati",
+    "title": {
+      "tr": "Deliktaşlı Halk Ozanı",
+      "en": "Folk Poet from Deliktaş"
+    },
+    "bio": {
+      "tr": "Kangal'ın Deliktaş köyünde doğmuş, badeli aşık geleneğinin 19. yüzyıldaki en büyük ustalarından biridir. Saz çalmayı bilmemesine rağmen irticalen söylediği teknik başarısı yüksek şiirlerle tanınır. Karacaoğlan ve Aşık Ömer'den etkilenmiş, bölgede geniş bir çırak kitlesi yetiştirmiştir.",
+      "en": "Born in the Deliktaş village of Kangal, he was one of the greatest 19th-century masters of the 'bade' (mystical vision) ashik tradition. Though he did not play the baglama, he was renowned for his technically superior extemporaneous poetry. He was influenced by Karacaoğlan and Aşık Ömer, and trained many apprentices in the region."
+    },
+    "didYouKnow": {
+      "tr": "Dört evliliğinden yirmi üç çocuğu olduğu şiirlerinde geçmektedir.",
+      "en": "His poems mention that he had twenty-three children from four marriages."
+    }
+  },
+  {
+    "id": "SIV-019",
+    "category": "Pioneer",
+    "name": "Muzaffer Sarısözen",
+    "title": {
+      "tr": "Müzikolog ve Derlemeci",
+      "en": "Musicologist and Folklorist"
+    },
+    "bio": {
+      "tr": "Sivas Ulu Camii mahallesinde doğan sanatçı, Türk halk müziğinin en kapsamlı arşivini oluşturan derlemecidir. TRT 'Yurttan Sesler' korosunu kurarak yerel türkülerin ulusal radyoda bilimsel bir disiplinle icra edilmesini sağlamıştır. On binden fazla halk ezgisini notaya alarak Türk kültür hazinesine kazandırmıştır.",
+      "en": "Born in the Ulu Camii neighborhood of Sivas, this artist was the collector who created the most comprehensive archive of Turkish folk music. By founding the TRT 'Voices of the Homeland' choir, he ensured local folk songs were performed on national radio with scientific discipline. He transcribed over ten thousand folk melodies for the Turkish cultural treasury."
+    },
+    "didYouKnow": {
+      "tr": "Sivas ili hesabına İstanbul Belediye Konservatuvarı'na batı müziği eğitimi için gönderilmiştir.",
+      "en": "He was sent to the Istanbul Municipal Conservatory on behalf of Sivas province for Western music education."
+    }
+  },
+  {
+    "id": "SIV-020",
+    "category": "Pioneer",
+    "name": "Nuri Demirağ",
+    "title": {
+      "tr": "Havacılık ve Sanayi Öncüsü",
+      "en": "Aviation and Industry Pioneer"
+    },
+    "bio": {
+      "tr": "Divriği doğumlu iş insanı, Türkiye'nin ilk uçak fabrikasını kuran ve demiryolu inşasında devrim yapan bir vizyonerdir. Yerli sanayileşme hamlesini savunarak pilot yetiştirmek amacıyla Divriği'de 'Gök Okulu'nu açmıştır. Türkiye'nin ilk yerli uçak üretim modelini başarıyla uygulamıştır.",
+      "en": "Born in Divriği, this businessman was a visionary who founded Turkey's first aircraft factory and revolutionized railway construction. Advocating for a domestic industrialization drive, he opened the 'Gök Okulu' (Sky School) in Divriği to train pilots. He successfully implemented Turkey's first domestic aircraft production model."
+    },
+    "didYouKnow": {
+      "tr": "Demiryolu inşasındaki başarılarından dolayı Atatürk tarafından 'Demirağ' soyadı verilmiştir.",
+      "en": "Due to his success in railway construction, Atatürk bestowed upon him the surname 'Demirağ'."
+    }
+  },
+  {
+    "id": "SIV-021",
+    "category": "Pioneer",
+    "name": "Burhan Pınarbaşı",
+    "title": {
+      "tr": "Şemsiye Trokar Mucidi",
+      "en": "Inventor of the Umbrella Trocar"
+    },
+    "bio": {
+      "tr": "Sivaslı veteriner hekim, hayvanlarda gaz birikmesine bağlı ölümleri engelleyen dünyadaki ilk 'şemsiye trokar' cihazının mucididir. Cumhuriyet Üniversitesi Teknokent bünyesinde geliştirdiği bu buluşu için uluslararası patent almıştır. İcadı günümüzde ABD'den Rusya'ya kadar birçok ülkeye ihraç edilmektedir.",
+      "en": "A veterinarian from Sivas, he is the inventor of the world's first 'umbrella trocar' device, which prevents animal deaths due to gas buildup. He obtained an international patent for this invention developed at Cumhuriyet University Technopark. His invention is currently exported to many countries, from the USA to Russia."
+    },
+    "didYouKnow": {
+      "tr": "Dünyada ilk defa kilitli ve kalıcı gaz tahliyesi sağlayan trocarı geliştirmiştir.",
+      "en": "He developed the world's first locked trocar that provides permanent gas evacuation."
+    }
+  },
+  {
+    "id": "SIV-022",
+    "category": "Pioneer",
+    "name": "Eflatun Cem Güney",
+    "title": {
+      "tr": "Masalcı Baba ve Folklorist",
+      "en": "Master Storyteller and Folklorist"
+    },
+    "bio": {
+      "tr": "Sivas Sultanisi mezunu olan yazar, Türk masallarını ve halk hikayelerini derleyerek edebiyata kazandıran en önemli isimdir. 'Masalcı Baba' unvanıyla tanınan sanatçı, tam elli iki yıl boyunca devlet ve kültür hizmetinde bulunmuştur. Altmış iki adet yayınlanmış eseriyle Anadolu sözlü kültürünün hafızası olmuştur.",
+      "en": "A graduate of Sivas Sultanisi, this author was the most prominent figure in collecting and bringing Turkish fairy tales and folk stories to literature. Known by the title 'Master Storyteller,' he served in state and cultural services for exactly fifty-two years. With sixty-two published works, he became the memory of Anatolian oral culture."
+    },
+    "didYouKnow": {
+      "tr": "Danimarka'daki Hans Christian Andersen Derneği'nden onur madalyası almıştır.",
+      "en": "He received a medal of honor from the Hans Christian Andersen Society in Denmark."
+    }
+  },
+  {
+    "id": "SIV-023",
+    "category": "Ashik",
+    "name": "Muhlis Akarsu",
+    "title": {
+      "tr": "Bağlama Üstadı ve Ozan",
+      "en": "Baglama Master and Poet"
+    },
+    "bio": {
+      "tr": "Kangal'ın Minarekaya köyünde doğan sanatçı, geleneksel deyişleri modern bir üslupla yorumlayan bir bağlama üstadıdır. İnsan sevgisini ve barışı eserlerinin merkezine koyarak kendine özgü bir ekol yaratmıştır. Sözü ve müziği kendisine ait yüzlerce eseriyle Türk halk müziğine damga vurmuştur.",
+      "en": "Born in the Minarekaya village of Kangal, this artist was a baglama master who interpreted traditional deyiş with a modern style. He created a unique school of thought by placing human love and peace at the center of his works. He left a mark on Turkish folk music with hundreds of original compositions."
+    },
+    "didYouKnow": {
+      "tr": "İlkokul yıllarında yörenin ozanlarından etkilenerek saz çalmaya başlamıştır.",
+      "en": "He began playing the baglama in primary school, influenced by the local poets of his region."
+    }
+  },
+  {
+    "id": "SIV-024",
+    "category": "Ashik",
+    "name": "Minhaci",
+    "title": {
+      "tr": "Lirik Halk Şairi",
+      "en": "Lyrical Folk Poet"
+    },
+    "bio": {
+      "tr": "Aşık Ruhsati'nin oğlu olan sanatçı, babasından aldığı kültürel mirası lirik bir derinlikle şiirlerine yansıtmıştır. Deliktaş köyünde yetişmiş ve halk arasında 'Molla Ali' olarak tanınmıştır. Özellikle sevdiği kadın olan Hatice'ye yazdığı duygusal şiirlerle halk arasında derin bir yer edinmiştir.",
+      "en": "The son of Aşık Ruhsati, this artist reflected the cultural heritage inherited from his father in his poems with lyrical depth. Raised in the village of Deliktaş, he was known among the people as 'Molla Ali.' He earned a deep place in popular culture particularly through the emotional poems he wrote for his beloved Hatice."
+    },
+    "didYouKnow": {
+      "tr": "Aşk acısı nedeniyle yatağa düşerek genç yaşta vefat ettiği rivayet edilir.",
+      "en": "Legend has it that he died at a young age after becoming bedridden due to heartbreak."
+    }
+  },
+  {
+    "id": "SIV-025",
+    "category": "Pioneer",
+    "name": "İbrahim Arslanoğlu",
+    "title": {
+      "tr": "Sivas Folkloru Araştırmacısı",
+      "en": "Researcher of Sivas Folklore"
+    },
+    "bio": {
+      "tr": "Sivas İlköğretmen Okulu mezunu olan araştırmacı, 'Sivas Folkloru' dergisini çıkararak bölge kültürünün en kapsamlı kaydını tutmuştur. Yirmiye yakın kitabı ve onlarca dergi sayısıyla Anadolu halk bilimi için temel bir kaynak oluşturmuştur. Cumhuriyet Üniversitesi tarafından halk kültürüne hizmetlerinden dolayı onursal bilim doktorluğu unvanı verilmiştir.",
+      "en": "A graduate of the Sivas Primary Teachers' School, this researcher kept the most comprehensive record of regional culture by publishing the 'Sivas Folkloru' magazine. With nearly twenty books and dozens of journal issues, he established a foundational source for Anatolian folklore. He was awarded an honorary doctorate of science by Cumhuriyet University for his services to folk culture."
+    },
+    "didYouKnow": {
+      "tr": "1981 yılında Türk Folkloruna Hizmet Ödülü'ne layık görülmüştür.",
+      "en": "He was deemed worthy of the Service to Turkish Folklore Award in 1981."
+    }
+  },
+  {
+    "id": "SIV-026",
+    "category": "Ashik",
+    "name": "Külhaşzade Rahmi",
+    "title": {
+      "tr": "Anadan Doğma Şair",
+      "en": "The Born Poet"
+    },
+    "bio": {
+      "tr": "Sivas'ın köklü Külhaşoğulları ailesine mensup, medrese eğitimi görmemesine rağmen ilahi aşkla şiir söyleyen bir ozandır. Rüyasında pir elinden bade içtiğine inanılan şair, iman ve tasavvuf temalarını derinlemesine işlemiştir. Genç yaşta vefat etmesine rağmen Sivas edebiyat çevrelerinde 'huday-inâbit' bir zeka olarak anılır.",
+      "en": "Belonging to the established Külhaşoğulları family of Sivas, he was a poet who recited verse with divine love despite lacking formal medrese education. Believed to have drunk the 'bade' from a saint in a dream, he dealt deeply with themes of faith and mysticism. Despite dying young, he is remembered in Sivas literary circles as a naturally gifted genius."
+    },
+    "didYouKnow": {
+      "tr": "Sivas Kongresi'nde yer alan Albay Mustafa Külhaşoğlu'nun kardeşidir.",
+      "en": "He was the brother of Colonel Mustafa Külhaşoğlu, who participated in the Sivas Congress."
+    }
+  },
+  {
+    "id": "SIV-027",
+    "category": "Pioneer",
+    "name": "Vehbi Cem Aşkun",
+    "title": {
+      "tr": "Kültür Yazarı ve Araştırmacı",
+      "en": "Cultural Author and Researcher"
+    },
+    "bio": {
+      "tr": "Sivas'ın kültürel değerlerini, ozanlarını ve tarihini kitaplaştırarak gelecek nesillere aktaran üretken bir yazardır. 'Sivas Folkloru' ve 'Aşık Ruhsati' gibi temel başvuru kaynaklarını kaleme almış ve kırk beş yıl boyunca eğitimci olarak şehre hizmet etmiştir. Sivas Ortaokulu'nda görev yaparak birçok gencin kültürel gelişimine katkıda bulunmuştur.",
+      "en": "He was a prolific author who documented the cultural values, poets, and history of Sivas for future generations. He authored foundational reference works such as 'Sivas Folkloru' and 'Aşık Ruhsati' and served the city as an educator for forty-five years. By teaching at Sivas Middle School, he contributed to the cultural development of many young people."
+    },
+    "didYouKnow": {
+      "tr": "Roman, şiir ve araştırma türlerinde otuza yakın basılmış eseri vardır.",
+      "en": "He has nearly thirty published works across the genres of novels, poetry, and research."
+    }
+  },
+  {
+    "id": "SIV-028",
+    "category": "Ashik",
+    "name": "Talibi Coşkun",
+    "title": {
+      "tr": "Gezgin Halk Şairi",
+      "en": "Wandering Folk Poet"
+    },
+    "bio": {
+      "tr": "Altınyayla'da doğan ozan, rüyasında Keklik Emine'ye talip olmasıyla 'Talibi' mahlasını alarak yollara düşmüştür. Şiirlerinde milli duygular, yurt sevgisi ve hüzünlü bir aşk temasını derbeder bir söyleyişle dile getirmiştir. Rüyasında Evliya Çelebi'den sürekli dolaşmak için icazet aldığına inanılan mistik bir karakterdir.",
+      "en": "Born in Altınyayla, this poet took the pen name 'Talibi' after seeking Keklik Emine in a dream and set out on the road. He expressed themes of national sentiment, love of homeland, and melancholic love in a wandering style. He was a mystical character believed to have received permission from Evliya Çelebi in a dream to travel constantly."
+    },
+    "didYouKnow": {
+      "tr": "Talibi mahlasını sevdiği Keklik Emine'ye kavuşamadığı için almıştır.",
+      "en": "He took the pen name 'Talibi' (seeker) because he could not reach his beloved Keklik Emine."
+    }
+  },
+  {
+    "id": "SIV-029",
+    "category": "Ashik",
+    "name": "Feryadi",
+    "title": {
+      "tr": "Baharözülü İrticalen Ozan",
+      "en": "Extemporaneous Poet from Baharözü"
+    },
+    "bio": {
+      "tr": "Ulaş'ın Baharözü köyünde doğmuş, irticalen şiir söyleme yeteneğiyle tanınan güçlü bir halk ozanıdır. Saz çalmamasına rağmen aşk ve sosyal içerikli şiirleri Anadolu'nun birçok yerinde ezbere bilinir. 1980 yılında gözlerini kaybetmesine rağmen sanatını ve şiirlerini söylemeye devam etmiştir.",
+      "en": "Born in the Baharözü village of Ulaş, he was a powerful folk poet known for his ability to recite improvised verse. Although he did not play the baglama, his poems on love and social issues are known by heart in many parts of Anatolia. Despite losing his sight in 1980, he continued to practice his art and recite his poetry."
+    },
+    "didYouKnow": {
+      "tr": "Feryadî mahlasını kendisine Altınyaylalı Has Sait Efendi vermiştir.",
+      "en": "The pen name 'Feryadî' was given to him by Has Sait Efendi of Altınyayla."
+    }
+  },
+  {
+    "id": "SIV-030",
+    "category": "Pioneer",
+    "name": "Sedat Veyis Örnek",
+    "title": {
+      "tr": "Etnoloji Profesörü",
+      "en": "Professor of Ethnology"
+    },
+    "bio": {
+      "tr": "Zara doğumlu bilim insanı, Türkiye'de etnoloji ve dinler tarihi alanında öncü akademik çalışmalar gerçekleştirmiştir. Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi'nde profesör olarak görev yapmış ve Türk halk kültürü üzerine temel yapıtlar bırakmıştır. Bilimsel kimliğinin yanı sıra ödüllü oyunlarıyla Türk tiyatrosuna da katkı sağlamıştır.",
+      "en": "A scientist born in Zara, he conducted pioneering academic work in the fields of ethnology and the history of religions in Turkey. He served as a professor at Ankara University's Faculty of Language, History, and Geography and left foundational works on Turkish folk culture. In addition to his scientific identity, he contributed to Turkish theater with award-winning plays."
+    },
+    "didYouKnow": {
+      "tr": "İlk öyküsü 1949 yılında Sivas Hakikat gazetesinde yayımlanmıştır.",
+      "en": "His first story was published in the Sivas Hakikat newspaper in 1949."
+    }
+  },
+  {
+    "id": "SIV-031",
+    "category": "Artist",
+    "name": "Kaluyan el-Konevi",
+    "title": {
+      "tr": "Sivas Gök Medrese Mimarı",
+      "en": "Architect of Sivas Gök Medrese"
+    },
+    "bio": {
+      "tr": "13. yüzyılda yaşamış, Selçuklu mimarisinin zirve noktalarından biri olan Sivas Gök Medrese'nin müellif mimarıdır. Üslubu, cephede geometri ve orana önem veren ve süslemede bitkisel bezemenin öne çıktığı İlhanlı dönemi geçiş özelliklerini yansıtır. Taş ve mermer işçiliğini bir dantel gibi işleyerek Anadolu mimarlık tarihine abidevi bir imza atmıştır.",
+      "en": "Living in the 13th century, he was the lead architect of the Sivas Gök Medrese, a pinnacle of Seljuk architecture. His style reflects Ilhanlı period transition features, emphasizing geometry, proportion on the facade, and prominent floral ornamentation. He left a monumental mark on Anatolian architectural history by crafting stone and marble like fine lace."
+    },
+    "didYouKnow": {
+      "tr": "Taçkapıdaki köşe sütunlarında 'amel-i üstâd Kālûyân el-Konevi' imzası bulunmaktadır.",
+      "en": "The signature 'work of master Kälûyân el-Konevî' is found on the corner columns of the main portal."
+    }
+  },
+  {
+    "id": "SIV-032",
+    "category": "Artist",
+    "name": "Çetin Tekindor",
+    "title": {
+      "tr": "Usta Oyuncu",
+      "en": "Master Actor"
+    },
+    "bio": {
+      "tr": "Sivas doğumlu sanatçı, Türk tiyatrosu ve sinemasının en prestijli karakter oyuncularından biri olarak kabul edilir. Güçlü ses tonu ve derinlikli oyunculuğu ile 'İçerde' ve 'Babam ve Oğlum' gibi projelerde unutulmaz performanslar sergilemiştir. Sanat kariyeri boyunca sayısız ulusal ödüle layık görülmüştür.",
+      "en": "The Sivas-born artist is regarded as one of the most prestigious character actors in Turkish theater and cinema. He has delivered unforgettable performances in projects like 'Içerde' and 'Babam ve Oğlum' with his powerful voice and profound acting. He has been honored with numerous national awards throughout his artistic career."
+    },
+    "didYouKnow": {
+      "tr": "Halk arasında özellikle 'Kebabçı Celal' karakteriyle efsaneleşmiştir.",
+      "en": "He became a legendary figure among the public particularly through his character 'Kebabçı Celal'."
+    }
+  },
+  {
+    "id": "SIV-033",
+    "category": "Artist",
+    "name": "Emel Sayın",
+    "title": {
+      "tr": "Klasik Müzik İkonu",
+      "en": "Classical Music Icon"
+    },
+    "bio": {
+      "tr": "Sivas doğumlu sanatçı, Türk Sanat Müziği'nin en zarif seslerinden biri ve Yeşilçam sinemasının unutulmaz yıldızıdır. Müzik kariyerindeki başarılarını sinemadaki ikonik rolleriyle birleştirerek Türkiye'nin en sevilen yüzlerinden biri olmuştur. Sanatçı kimliğiyle nesiller boyu süren bir hayran kitlesi oluşturmuştur.",
+      "en": "Born in Sivas, this artist is one of the most elegant voices of Turkish Classical Music and an unforgettable star of Yeşilçam cinema. By combining her music career success with iconic film roles, she became one of Turkey's most beloved faces. Through her artistic identity, she created a fanbase spanning generations."
+    },
+    "didYouKnow": {
+      "tr": "Sivaslı olduğu öğrenildiğinde hayranları arasında büyük bir şaşkınlık ve takdir yaratmıştır.",
+      "en": "The news of her Sivas roots created great surprise and appreciation among her fans."
+    }
+  },
+  {
+    "id": "SIV-034",
+    "category": "Artist",
+    "name": "Cem Yılmaz",
+    "title": {
+      "tr": "Komedyen ve Sinemacı",
+      "en": "Comedian and Filmmaker"
+    },
+    "bio": {
+      "tr": "Aslen Sivaslı olan sanatçı, Türkiye'nin modern stand-up geleneğini başlatan ve sinemada gişe rekorları kıran bir figürdür. Karikatüristlikten gelen keskin gözlem yeteneğini senaristlik ve yönetmenlikle birleştirmiştir. Türk mizah dünyasında bir dönemi şekillendiren en popüler isimdir.",
+      "en": "Originally from Sivas, this artist is a figure who initiated the modern stand-up tradition in Turkey and broke box-office records in cinema. He combined the sharp observational skills of a cartoonist with screenwriting and directing. He is the most popular name who shaped an era in Turkish humor."
+    },
+    "didYouKnow": {
+      "tr": "Sahnelerindeki esprilerinde Sivaslı kimliğine sıkça ve gururla yer vermektedir.",
+      "en": "He frequently and proudly includes his Sivas identity in his stage jokes."
+    }
+  },
+  {
+    "id": "SIV-035",
+    "category": "Artist",
+    "name": "Dilan Çiçek Deniz",
+    "title": {
+      "tr": "Popüler Oyuncu",
+      "en": "Popular Actress"
+    },
+    "bio": {
+      "tr": "Sivas doğumlu oyuncu, Miss Turkey derecesinin ardından 'Çukur' gibi fenomen dizilerle kariyerinde zirveye ulaşmıştır. Modern oyunculuk tarzı ve uluslararası projeleriyle Türk televizyonunun yeni nesil yıldızlarındandır. Edebiyata olan ilgisiyle bilinen sanatçı, genç yaşta bir şiir kitabı da yayımlamıştır.",
+      "en": "The Sivas-born actress reached the peak of her career with phenomenal series like 'Çukur' following her placement in Miss Turkey. She is one of the new-generation stars of Turkish television with her modern acting style and international projects. Known for her interest in literature, she also published a poetry book at a young age."
+    },
+    "didYouKnow": {
+      "tr": "Henüz çocuk yaşlarda 'Güneşi Annem Sanırdım' adlı bir şiir kitabı çıkarmıştır.",
+      "en": "She published a poetry book titled 'I Thought the Sun Was My Mother' as a child."
+    }
+  },
+  {
+    "id": "SIV-036",
+    "category": "Artist",
+    "name": "Tolga Sarıtaş",
+    "title": {
+      "tr": "Dizi ve Sinema Oyuncu",
+      "en": "Series and Cinema Actor"
+    },
+    "bio": {
+      "tr": "Sivaslı bir ailenin çocuğu olan sanatçı, aksiyon ve dram türündeki rolleriyle geniş kitlelerce tanınmaktadır. 'Söz' dizisindeki 'Sarı Komutan' rolüyle büyük bir takdir toplamış ve uluslararası platformlarda Türkiye'yi temsil etmiştir. Genç kuşağın en başarılı ve ödüllü erkek oyuncuları arasında yer alır.",
+      "en": "The child of a Sivas family, this artist is widely recognized for his roles in the action and drama genres. He earned great acclaim with his role as the 'Sarı Komutan' (Yellow Commander) in the series 'Söz' and represented Turkey on international platforms. He is among the most successful and award-winning male actors of the young generation."
+    },
+    "didYouKnow": {
+      "tr": "Uluslararası Emmy Ödülleri'nde 'En İyi Erkek Oyuncu' dalında adaylık almıştır.",
+      "en": "He received a nomination for 'Best Actor' at the International Emmy Awards."
+    }
+  },
+  {
+    "id": "SIV-037",
+    "category": "Artist",
+    "name": "İrem Sak",
+    "title": {
+      "tr": "Oyuncu ve Senarist",
+      "en": "Actress and Screenwriter"
+    },
+    "bio": {
+      "tr": "Sivas doğumlu sanatçı, hem komedi hem de dram türündeki rollerindeki başarısıyla modern Türk televizyonunun sevilen yüzlerindendir. Lise eğitimini Sivas'ta tamamladıktan sonra oyunculuk kariyeri için İstanbul'a yerleşmiştir. Son yıllarda senaryo yazımıyla da ilgilenerek çok yönlü sanatçı kimliğini ön plana çıkarmaktadır.",
+      "en": "The Sivas-born artist is one of the beloved faces of modern Turkish television, known for her success in both comedy and drama roles. After completing her high school education in Sivas, she moved to Istanbul for her acting career. In recent years, she has highlighted her versatile artistic identity by engaging in screenwriting."
+    },
+    "didYouKnow": {
+      "tr": "Sivas'ta doğup büyümüş ve eğitim hayatının bir kısmını orada geçirmekten gururla bahsetmiştir.",
+      "en": "She was born and raised in Sivas and speaks proudly of spending part of her educational life there."
+    }
+  },
+  {
+    "id": "SIV-038",
+    "category": "Artist",
+    "name": "Selda Bağcan",
+    "title": {
+      "tr": "Dünya Müziği Elçisi",
+      "en": "World Music Ambassador"
+    },
+    "bio": {
+      "tr": "Aslen Sivaslı olan dünyaca ünlü müzisyen, Anadolu halk müziğini modern rock ve elektronik unsurlarla sentezleyerek küresel bir ün kazanmıştır. Protest sesi ve güçlü yorumuyla dünya genelinde birçok sanatçıya ilham kaynağı olmuştur. Şarkıları bugün uluslararası müzik festivallerinde en çok çalınan Türk eserleri arasındadır.",
+      "en": "The world-renowned musician, originally from Sivas, gained global fame by synthesizing Anatolian folk music with modern rock and electronic elements. She has been a source of inspiration for many artists worldwide with her protest voice and powerful interpretation. Her songs are among the most-played Turkish works at international music festivals today."
+    },
+    "didYouKnow": {
+      "tr": "Rolling Stone dergisi tarafından 'Dünya Müziğinde Yaşayan Efsane Kadın Şarkıcılar' listesine seçilmiştir.",
+      "en": "She was selected for the 'Legendary Living Female Singers in World Music' list by Rolling Stone magazine."
+    }
+  },
+  {
+    "id": "SIV-039",
+    "category": "Artist",
+    "name": "Tülin Şahin",
+    "title": {
+      "tr": "Global Model ve Yazar",
+      "en": "Global Model and Author"
+    },
+    "bio": {
+      "tr": "Sivaslı bir ailenin kızı olarak Danimarka'da doğmuş, uluslararası podyumlarda Türkiye'yi temsil eden en önemli top modellerden biridir. Moda dünyasındaki başarısını yazar ve sunucu kimliğiyle birleştirerek küresel bir marka haline gelmiştir. Sağlıklı yaşam ve güzellik üzerine yayımladığı kitaplarla geniş kitlelere ulaşmıştır.",
+      "en": "Born in Denmark to a Sivas family, she is one of the most prominent top models representing Turkey on international runways. She became a global brand by combining her fashion world success with her identity as an author and presenter. She reached large audiences through her books on healthy living and beauty."
+    },
+    "didYouKnow": {
+      "tr": "Dünya moda camiasında 'Sivaslı Cindy' lakabıyla tanınmakta ve bu kökenini her fırsatta dile getirmektedir.",
+      "en": "She is known in the world fashion community as 'Cindy from Sivas' and mentions this origin at every opportunity."
+    }
+  },
+  {
+    "id": "SIV-040",
+    "category": "Artist",
+    "name": "Hatice Aslan",
+    "title": {
+      "tr": "Ödüllü Karakter Oyuncusu",
+      "en": "Award-Winning Character Actress"
+    },
+    "bio": {
+      "tr": "Sivas doğumlu sanatçı, Devlet Tiyatroları kökenli usta bir oyuncu olup sinemada uluslararası başarılara imza atmıştır. Nuri Bilge Ceylan'ın 'Üç Maymun' filmindeki performansıyla dünya çapında takdir toplamıştır. Derinlikli ve sofistike karakter canlandırmalarıyla Türk sinemasının en güçlü kadın oyuncularından biridir.",
+      "en": "The Sivas-born artist is a master actress from the State Theatres who has achieved international success in cinema. She earned worldwide acclaim for her performance in Nuri Bilge Ceylan's film 'Three Monkeys. She is one of the most powerful female actors in Turkish cinema, known for her deep and sophisticated character portrayals."
+    },
+    "didYouKnow": {
+      "tr": "Eynes Uluslararası Film Festivali'nde 'En İyi Kadın Oyuncu' ödülüne layık görülmüştür.",
+      "en": "She was deemed worthy of the 'Best Actress' award at the Eynes International Film Festival."
+    }
+  }
+]

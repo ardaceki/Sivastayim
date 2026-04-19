@@ -1,0 +1,54 @@
+{
+  "navbar": {
+    "logo": "Sivastayım"
+  },
+  "hero": {
+    "title": "Sivastayım",
+    "subtitle": "Sivas'ın eşsiz atmosferini keşfetmeye hazır mısın?",
+    "start_btn": "Zaman Yolculuğuna Başla",
+    "map_btn": "Haritayı Aç"
+  },
+  "scrollytelling": {
+    "steps": [
+      {
+        "title": "Hitit Dönemi (M.Ö. 1600-1200): Bölgenin Doğuşu",
+        "description": "Sarissa ve Kayalıpınar gibi önemli yerleşimleriyle Sivas, medeniyetin temel kodlarının yazıldığı coğrafyalardan biridir. Bu dönem, adeta şehrin kimliğinin doğuşunu oluşturur."
+      },
+      {
+        "title": "Roma Gücü: Yüce Sebasteia",
+        "description": "İmparatorluğun stratejik kalbi olan Sebasteia, askeri ve kültürel bir çekim merkeziydi. Ünlü 40 Şehitler efsanesi ve görkemli mimarisiyle döneminin en etkileyici şehirlerinden biriydi."
+      },
+      {
+        "title": "Bizans ve Ermeni Geçişi: Sınır Şehri",
+        "description": "İmparatorlukların çarpışma ve temas noktası olan bu stratejik sınır şehri, siyasi çalkantıların ortasında Vaspurakan krallarının güçlü izlerine ve karmaşık tarihi köprülere ev sahipliği yapmıştır."
+      },
+      {
+        "title": "Selçuklu Altın Çağı: Ortaçağ'ın Silikon Vadisi",
+        "description": "Gök Medrese, Buruciye ve Şifahiye gibi anıtsal şaheserlerle Sivas, bilimin, mimarinin ve sanatın zirvesini yaşadı. Burası 13. yüzyıl Anadolusunun tartışmasız fikir ve eğitim merkeziydi."
+      },
+      {
+        "title": "Eretna ve Kadı Burhaneddin: Başkent Vizyonu",
+        "description": "Sivas, bu dönemde doğrudan bir devlet başkenti olarak yükseldi. Siyasetin yanı sıra, Kadı Burhaneddin'in edebi ve felsefi dehasıyla entelektüel bir altın çağa adım attı."
+      },
+      {
+        "title": "Osmanlı Merkeziliği: Eyalet-i Rum",
+        "description": "Yüzyıllarca süren Osmanlı idaresinde devasa bir lojistik ve ticaret üssü olan Sivas, İpek Yolu kervanlarının kalbinin attığı en kritik yönetim eyaletlerinden (Eyalet-i Rum) biri olmuştur."
+      },
+      {
+        "title": "Cumhuriyetin Temelleri: 108 Günlük Başkent",
+        "description": "Milli Mücadele'nin ateşlendiği Sivas Kongresi'ne ev sahipliği yaparak, Cumhuriyet tarihinde 108 gün boyunca ülkenin fiili ve manevi haritasını çizen direnişin merkez karargahı oldu."
+      },
+      {
+        "title": "Modern Vizyon: Akıllı Gelecek",
+        "description": "Divriği Ulu Camii ile UNESCO mirasını taçlandıran, TÜDEMSAŞ gibi milli sanayi adımlarıyla büyüyen Sivas, şimdi köklü tarihini Akıllı Şehir (Smart City) vizyonuyla yarınlara taşıyor."
+      }
+    ]
+  },
+  "common": {
+    "search": "Ara...",
+    "search_placeholder": "Nereyi keşfetmek istersiniz?",
+    "search_people": "İsim ile portre ara...",
+    "search_dishes": "Lezzet ara...",
+    "no_results": "Sonuç bulunamadı."
+  }
+}

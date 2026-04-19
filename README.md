@@ -57,5 +57,12 @@ This project was developed as a technical experiment using the **Vibecoding** me
 
 ## License
 
-[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0)
+Copyright (C) 2026 Arda Çeki.
+
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0). This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.
+
+
+## Contact
+[![Email](https://img.shields.io/badge/Email-ardaceki%40proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ardaceki@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arda%20Çeki-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ardaceki)
 

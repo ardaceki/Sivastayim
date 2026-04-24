@@ -3,7 +3,7 @@
 
 > **Note:** This project was developed as an academic assignment and is live at [sivastayim.info](https://www.sivastayim.info).
 
-# Sivastayım
+# Sivastayım 
 
 Sivastayım is a multilingual digital city guide platform focused on the cultural, historical, and geographical heritage of Sivas. The application utilizes a modern web stack to provide interactive maps, scrollytelling experiences, and an AI-driven chatbot for real-time user inquiries.
 ## Features
